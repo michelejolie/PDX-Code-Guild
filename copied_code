@@ -1,0 +1,22 @@
+def read_file(file_path):
+    with open (file_path, 'r') as file:
+        contents = file.readlines()
+        for line in contents:
+            print(line)
+    print(contents)
+
+def write_file(file_path):
+    with open (file_path, 'w') as file:
+        times = int(input('How many lines would you like to add?: '))
+        ran = 0
+        list_of_lines = []
+        while ran <times:
+            list_of_Lines.append(input("What would you like to write to this file?: "))
+            ran += 1
+        For line in list_of_lines:
+            file.write(line + '\n')
+
+translate_to_pig_latin('sample.txt', 'translated_pig_latin_txt')
+#Write_file('sample.txt')
+#append_to_file('sample.txt')
+#read_file('sample.txt')

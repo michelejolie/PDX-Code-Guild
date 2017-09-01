@@ -1,0 +1,11 @@
+echo "# PDX-Code-Guild" >> README.md
+
+python3 -m venv /path/to/new/virtual/environment
+echo "# PDX-Code-Guild" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/michelejolie/PDX-Code-Guild.git
+git push -u origin master
+.idea/
+*.dmgs
