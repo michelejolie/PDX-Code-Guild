@@ -8,5 +8,5 @@ get_tens_digits(10)
 def get_tens_digit(num):
     return num // 10
 
-    print(num // 10)
+
 
