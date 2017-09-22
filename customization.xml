@@ -1,0 +1,32 @@
+<application>
+  <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="ReleasePermanentTicket" is_action="true" action_type="-1" position="2">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Help" />
+      <path value="Registration Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ObtainPermanentTicket" is_action="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Help" />
+      <path value="Registration Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Register" is_action="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Help" />
+      <path value="Registration Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Register JedIDE" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Help" />
+      <path value="Registration Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+  </component>
+</application>
