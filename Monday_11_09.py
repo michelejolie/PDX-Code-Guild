@@ -1,7 +1,9 @@
-lst = []
+computer = 'My shopping list'
+lst = [" apples " "oranges " "pears " "grapes" "lipstick" "shampoo"]
+append["matches movie tickets"]
 
-for i in range(100):
-    lst.append(Foo(i))
-print(lst[:44])
-# for x in 1st:
-#     print(x.name)
+
+
+
+print('My shopping list '','+ lst[0])
+
