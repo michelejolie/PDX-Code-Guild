@@ -3,7 +3,7 @@ brothers = {
     'Magnuson': {'name': 'Tom Magnuson', 'phone': 4444444444},
     'Yeaney': {'name': 'Johny Yeaney', 'phone': 5555555555},
 }
-brothers ={'lower'(): 'upper'()}
+brothers = {'lower'()}
 
 query = input("What is the last name of the brother you are looking for?: ")
 
