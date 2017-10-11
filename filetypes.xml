@@ -8,6 +8,7 @@
       <mapping pattern="_var" type="SCSS" />
       <mapping pattern="_vars" type="SCSS" />
       <mapping pattern="Monday_Oct" type="XHTML" />
+      <mapping pattern="animate" type="YouTrack" />
     </extensionMap>
   </component>
 </application>
