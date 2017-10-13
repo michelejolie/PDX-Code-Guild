@@ -1,5 +1,8 @@
 <code_scheme name="Default">
   <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
+  <MarkdownNavigatorCodeStyleSettings>
+    <option name="RIGHT_MARGIN" value="72" />
+  </MarkdownNavigatorCodeStyleSettings>
   <codeStyleSettings language="HTML">
     <option name="WRAP_ON_TYPING" value="0" />
   </codeStyleSettings>
